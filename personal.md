@@ -20,5 +20,5 @@ Reasons:
 - testing
 
 ## Other thoughts
-https://github.com/nmorrow-1111/OnlinePresence2020Blog/issues/1#issue-754813523
+![image](https://user-images.githubusercontent.com/75332276/100810227-9a18ef80-33fd-11eb-9490-5320808ac2f3.png)
 This is alright.
