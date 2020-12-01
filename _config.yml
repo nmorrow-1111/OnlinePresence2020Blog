@@ -1,0 +1,11 @@
+# basic options
+title: Online Presence 2020 Blog
+author: Nick Morrow
+email: nmorrow1111@yahoo.com
+description: Site description
+twitter_username: nmorrow215
+github_username: nmorrow-1111
+
+# Build Settings
+markdown: kramdown
+theme: minima
