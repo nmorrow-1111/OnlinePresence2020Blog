@@ -15,6 +15,7 @@ about myself that employers may find interesting. Of course I am still working a
 and will soon be promoted to server, however, when the time comes to move on towards my career field, this LinkedIn 
 profile will be a great asset to my Social Presence.
 
-Link to my profile: https://www.linkedin.com/in/nicholas-morrow-a228531b7/
+Link to my profile:
+[Your link here](https://www.linkedin.com/in/nicholas-morrow-a228531b7/)
 
 ![Profile](https://user-images.githubusercontent.com/75332276/100899432-74382d00-3487-11eb-8279-055ce79bc408.JPG)
