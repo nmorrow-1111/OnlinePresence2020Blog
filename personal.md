@@ -26,3 +26,4 @@ Hobbies of mine include:
    I've also worked on multiple teams, creating a few games of our own these last few years. While going through my computer science classes (details in "Who am I?" tab) I had the best oppurtunity to begin working with Unity Engine and C++ as well as Visual Studios, where we came up with a different take on an endless survival game called "The Delusion of Dug". Me and two other team members spent the better half of a semester working on this game in Unity. This is where it all began for me and my trip through my college experience. 
    
  
+![Project1](https://user-images.githubusercontent.com/75332276/100812086-c9c9f680-3401-11eb-9a4d-d5d88f3fd5c1.png) 
